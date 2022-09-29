@@ -10,6 +10,7 @@ These programs were derived from a Craig & Dave lesson plan.
 - Linear
 - Insertion
 - Merge
+- Bubble
 
 
 # Details
